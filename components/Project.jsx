@@ -16,8 +16,11 @@ const Projects = () => {
                 <a href="https://github.com/nitish14920/MakeMyTrip" target="_blank" rel="noopener noreferrer" >
                   <button>Github</button>
                 </a>
-                <a href="https://i.postimg.cc/rpwMHBmq/landingpagesst-1.png" target="_blank" rel="noopener noreferrer">
+                <a href="https://drive.google.com/file/d/1U6Hn-rWwWbHca7zUFDRY4askWe4r79JR/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                     <button>Demo</button>
+                    </a>
+                    <a href="https://medium.com/@sssarvesh1999/makemytrip-project-4308b68b44d6" target="_blank" rel="noopener noreferrer">
+                    <button>Blog</button>
                 </a>
                 </div>
                 
@@ -28,17 +31,22 @@ const Projects = () => {
 
               
                <a href="https://github.com/SrikanthReddyBV/Internshala" target="_blank" rel="noopener noreferrer">
-                {/* <span><i class="fab fa-github fa-2x"></i></span> */}
+                
               <button>Github</button>
                 </a>
                
                 
-                <a  href="https://i.postimg.cc/bvjrCyDW/0-0-0-0-1-Document-Google-Chrome-28-08-2021-09-13-39.png" target="_blank" rel="noopener noreferrer">
+                <a  href="https://drive.google.com/file/d/1NcgNpv6BcunAgagWgEJhVActhN_1mbq3/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                     
-                    <button>Demo</button></a>   
+                        <button>Demo</button></a>
+                     <a href="https://medium.com/@vs9425348?p=e8bfcdbac6cc" target="_blank" rel="noopener noreferrer">
+                    <button>Blog</button>
+                </a>
+           
+                </div>
+               
             </div>
            
-        </div>
         </>
     )
 }

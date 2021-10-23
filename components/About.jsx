@@ -13,7 +13,8 @@ const About = () => {
                Passionately looking to start a career as a software developer.Always ready to adapt to new situations.
            </div>
             
-        </div>
+            </div>
+            
         <hr/>
         </>
     )

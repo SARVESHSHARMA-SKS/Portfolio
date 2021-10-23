@@ -59,14 +59,13 @@ span{
         align-items: center;
         flex-direction: column;
         flex-wrap: wrap;
-        /* border: 1px solid black; */
         width: 70vw;
         margin: 10px auto;
     
     }
     .outer__div > div{
         width:60vw;
-        /* border:1px solid black; */
+       
         text-align: center;
         padding: 3%;
     }

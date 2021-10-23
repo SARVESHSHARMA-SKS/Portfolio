@@ -9,13 +9,13 @@
     flex-wrap: wrap;
     width: 70vw;
     margin: 10px auto;
-    /* border: 1px solid black; */
+    
 }
 .tech__stack img{
     width: 55%;
 }
 .tech__stack >div{
-    /* border: 1px solid green; */
+    
     border-radius: 10px;
     width: 10vw;
     padding: 2vh;
@@ -32,10 +32,10 @@
         flex-wrap: wrap;
         width: 70vw;
         margin: 70px auto;
-        /* border: 1px solid black; */
+        
     }
     .tech__stack >div{
-        /* border: 1px solid green; */
+       
         width: 25vh;
         padding: 2vh;
     }

@@ -18,6 +18,6 @@ outer__div{
 }
 @media only screen and (max-width: 600px) {
   .outer__div {
-    font-size:60px;
+    font-size:30px;
   }
 }

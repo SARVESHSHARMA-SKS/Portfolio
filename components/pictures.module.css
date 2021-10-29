@@ -1,10 +1,10 @@
-.outer__div{
+.outer{
     height: 20vh;
     background-color: #DDDDDD;
     position: relative;
 
 }
-.outer__div > div
+.outer > div
 {
   position: absolute;
   top:30%;
@@ -15,14 +15,14 @@
   border:10px solid azure;
 
 }
-.outer__div img{
+.outer img{
   width:200px;
   height:200px;
   border-radius: 200px;
 }
 @media screen and (max-width: 680px) {
   
-  .outer__div > div
+  .outer > div
 {
   position: absolute;
   top:30%;
@@ -33,7 +33,7 @@
   border:10px solid azure;
 
 }
-.outer__div img{
+.outer img{
   width:40vw;
   height:40vw;
   border-radius: 40vw;

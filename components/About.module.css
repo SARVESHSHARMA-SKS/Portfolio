@@ -1,4 +1,4 @@
-outer__div{
+outer{
   text-align: center;
   color:rgb(94, 87, 87);
   margin: 20px auto;
@@ -10,14 +10,14 @@ outer__div{
 
 
 }
-.outer__div > div{
+.outer > div{
   padding: 3vh;
  
 
   
 }
 @media only screen and (max-width: 600px) {
-  .outer__div {
+  .outer div {
     font-size:30px;
   }
 }

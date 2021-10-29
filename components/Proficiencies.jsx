@@ -4,7 +4,7 @@ const Proficiencies = () => {
     return (
         <>
         
-        <div className={styles.outer__div}>
+        <div className={styles.outer}>
         <hr/>
             <h1 style={{textAlign:"center",color:"#5E5757"}}>PROFICIENCY</h1>
                 <div className={styles.tech__stack}>

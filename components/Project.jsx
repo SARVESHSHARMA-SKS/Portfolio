@@ -8,7 +8,7 @@ const Projects = () => {
 
         <>
         <h1 style={{textAlign:"center",marginTop:"30px",  color:"#5E5757"}}>PROJECTS</h1>
-        <div className={styles.outer__div }>
+        <div className={styles.outer }>
             <div >
                 <img src="https://i.postimg.cc/rpwMHBmq/landingpagesst-1.png"  alt="makemytrip"/>
                 <h3 >Clone of MakeMyTrip</h3>

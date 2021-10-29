@@ -5,7 +5,7 @@ const BasicInfo = () => {
         window.open("https://drive.google.com/file/d/1-Mz6lE_F6N6jjkxDTatPEoTATz8vpsoP/view?usp=sharing")
     }
     return (
-        <div className={styles.outer__div}>
+        <div className={styles.outer}>
             <h1>SARVESH KUMAR SHARMA</h1>
             <h2>FULL STACK DEVELOPER</h2>
             <button onClick={handle}>Resume</button>

@@ -3,7 +3,7 @@ import styles from "./About.module.css"
 const About = () => {
     return (
         <>
-        <div className={styles.outer__div}>
+        <div className={styles.outer}>
             <h2>About</h2>
            <div style={{textAlign:"justify"}}>
                     An Enthusiastic Full Stack Developer moulded  and shaped by masai school's rigorous training program,

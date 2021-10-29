@@ -1,9 +1,9 @@
 
    
-.outer__div{
+.outer{
     width:80vw;
     margin:100px auto;
 }
-.outer__div > img{
+.outer > img{
     width: 100%;
 }

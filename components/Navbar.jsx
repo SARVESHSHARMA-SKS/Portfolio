@@ -2,7 +2,11 @@ import React from 'react'
 import {Link} from "react-router-dom"
 const links = [
     {
-        to: "/#about",
+        to: "/",
+        title: "Home",
+    },
+    {
+        to: "/about",
         title: "About"
     },
     {

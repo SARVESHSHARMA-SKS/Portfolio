@@ -8,7 +8,7 @@ const Pictures = () => {
             <span style={{ display: "flex", justifyContent: "flex-end" }}><Routes/></span>
             <div>
                                      
-                <img src="https://i.postimg.cc/FsBYDXKQ/1.jpg" alt="prop" />
+                <img src="https://i.postimg.cc/151pDjsG/3206-1.jpg" alt="prop" />
                     
           </div>
         </div>
